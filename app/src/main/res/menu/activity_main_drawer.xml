@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cidade"
+            android:icon="@drawable/icon_cidade"
+            android:title="@string/menu_cidade" />
+        <item
+            android:id="@+id/nav_galeria"
+            android:icon="@drawable/icon_galeria"
+            android:title="@string/menu_galeria" />
+        <item
+            android:id="@+id/nav_eventos"
+            android:icon="@drawable/icon_eventos"
+            android:title="@string/menu_eventos" />
+        <item
+            android:id="@+id/nav_mapa"
+            android:icon="@drawable/icon_mapa"
+            android:title="@string/menu_mapa" />
+    </group>
+
+    <item android:title="@string/menu_sobre">
+        <menu>
+            <item
+                android:id="@+id/nav_email"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/menu_informacoes" />
+            <item
+                android:id="@+id/nav_compartilhar"
+                android:icon="@android:drawable/ic_menu_share"
+                android:title="@string/menu_compartilhe" />
+        </menu>
+    </item>
+
+</menu>

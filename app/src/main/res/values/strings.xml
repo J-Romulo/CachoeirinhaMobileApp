@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Cachoeirinha</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_cidade">Cidade</string>
+    <string name="menu_galeria">Galeria</string>
+    <string name="menu_eventos">Eventos</string>
+    <string name="menu_mapa">Mapa</string>
+    <string name="menu_informacoes">Contate-nos</string>
+    <string name="imagem_brasao">ImagemBrasao</string>
+    <string name="menu_sobre">Sobre o app</string>
+    <string name="menu_compartilhe">Compartilhe</string>
+
+</resources>
